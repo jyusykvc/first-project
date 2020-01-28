@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-KLOND90
+KLOND90  sss
         </p>
         <a
           className="App-link"
